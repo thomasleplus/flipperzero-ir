@@ -1,6 +1,6 @@
 # Flipper Zero IR
 
-My collection of Infrared (IR) files for the Flipper Zero and other remote control emulating devices.
+The Infrared (IR) files that I created using my Flipper Zero to backup my devices' remote controls.
 
 If you are looking for large collections of IR files (including mine), I recommend either the official
 [IRDB](https://github.com/flipperdevices/IRDB) from Flipper Devices or
